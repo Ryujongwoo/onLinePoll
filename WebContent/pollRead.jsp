@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>타이틀</title>
+<title>투표하기</title>
 <!-- favicon: 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다. -->
 <link rel="icon" href="./favicon-16x16.png">
 </head>
@@ -60,14 +60,14 @@
 	
 		<tr height='50'>
 			<td align="center">
-				<input type="submit" value="투표하기">
+				<input type="submit" value="투표합시다">
 				<input type="button" value="결과보기" onclick="location.href='pollResult.jsp'">
 			</td>
 		</tr>
 	
 	</table>
 </form>
-<br/>
+
 </body>
 </html>
 
